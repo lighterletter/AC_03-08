@@ -3,7 +3,7 @@ package nyc.c4q.lighterletter;
 /**
  * Created by john gomez on 3/8/15.
  * Pair with Hanbi Choi
- * This program asks user for their favorite fruit and outputs that fruit's quality.
+ * This program asks user for their favorite fruit and outputs some of that fruit's qualities.
  */
 
 import java.util.Scanner;
