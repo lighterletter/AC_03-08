@@ -13,7 +13,7 @@ public class guessNum {
         int number = random.nextInt(1000) + 1;
         int num;
 
-        System.out.println("guess a number between 1 and 10");
+        System.out.println("guess a number between 1 and 1000");
         num = scanner.nextInt();
 
         while (true) {
